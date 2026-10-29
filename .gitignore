@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包产物（EXE 走 Release 发布，不进仓库）
+build/
+dist/
+*.spec
+
+# 构建日志
+build*.log
+
+# 本机配置与导出结果（含手机号等私人信息，绝不入库）
+config.json
+*.xlsx
+*.session
+*.session-journal
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
