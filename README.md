@@ -4,8 +4,10 @@
 
 [![一键下载](https://img.shields.io/badge/%E2%AC%87%20%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD-Windows%20EXE-2ea44f?style=for-the-badge)](https://github.com/xiaocaomaomi/telegram-backup-exporter/releases/latest/download/TelegramBackup.exe)
 
-> 点上面这个绿色按钮，直接下载 `TelegramBackup.exe`（约 20 MB，单文件，免安装）。
+> 点上面这个绿色按钮，直接下载 `TelegramBackup.exe`（约 37 MB，单文件，免安装）。
 > 如果下载没反应，去 [Releases](../../releases/latest) 页面手动下。
+
+![界面截图](docs/screenshot.png)
 
 ---
 
